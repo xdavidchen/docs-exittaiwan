@@ -76,7 +76,7 @@ const config = {
             position: 'left',
             label: '教學',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '攻略', position: 'left'},
           {
             href: 'https://xdavidchen.com/zh-tw',
             label: '前往主網站',
@@ -113,7 +113,7 @@ const config = {
               },
               {
                 label: '小額贊助',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://davidchen.bobaboba.me',
               },
             ],
           },
