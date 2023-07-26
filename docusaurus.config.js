@@ -78,7 +78,7 @@ const config = {
           },
           //{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://xdavidchen.com/',
+            href: 'https://xdavidchen.com/zh-tw',
             label: '前往主網站',
             position: 'right',
           },
