@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '資源庫',
+  title: '知識庫 💡',
   tagline: '這裡有你出國需要的教學 / 攻略 / 工具',
   favicon: 'img/favicon.ico',
 
@@ -39,6 +39,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateTime: true
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -62,9 +63,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
+      announcementBar: {
+        id: 'support_us',
+        content:
+          '透過小額贊助，支持我繼續提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://davidchen.bobaboba.me"><b>點我前往</b></a>',
+        backgroundColor: '#F7FE79',
+        textColor: '#000',
+        isCloseable: false,
+      },
       navbar: {
-        title: 'David 的資源庫',
+        title: 'David 知識庫',
         /*logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -72,7 +81,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'introSidebar',
             position: 'left',
             label: '教學',
           },
@@ -91,12 +100,12 @@ const config = {
             title: '教學',
             items: [
               {
-                label: '教學',
-                to: '/docs/奧地利打工度假/intro',
+                label: '如何快速上手',
+                to: '/docs/如何快速上手',
               },
               {
-                label: '教學2',
-                to: '/docs/奧地利打工度假/intro',
+                label: '奧地利打工度假',
+                to: '/docs/category/奧地利打工度假',
               },
             ],
           },
@@ -125,11 +134,11 @@ const config = {
                 to: '/blog',
               },*/
               {
-                label: '國外故事（中）',
+                label: '在國外闖蕩的故事（中）',
                 href: 'https://xdavidchen.com/zh-tw/',
               },
               {
-                label: '生活靈感 / 自我成長 / 品牌行銷（英）',
+                label: '關於生活靈感 / 自我成長 / 品牌行銷（英）',
                 href: 'https://xdavidchen.com/en/',
               },
               {

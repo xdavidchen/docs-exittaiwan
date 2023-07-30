@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_stranded_traveler_pdbw.svg').default,
     description: (
       <>
-        萬事俱備再出國：簽證申請步驟、銀行開戶手續、入境海關須知、留學/打工度假文件⋯⋯。
+        萬事俱備再出國：簽證申請步驟、銀行開戶手續、入境海關須知、留學 / 打工度假文件⋯⋯。
       </>
     ),
   },

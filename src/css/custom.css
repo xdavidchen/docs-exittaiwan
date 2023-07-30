@@ -25,3 +25,24 @@
   --ifm-color-primary-lighter: #c4aa84;
   --ifm-color-primary-lightest: #d2bea1;
 }
+
+.hero {
+  background-image: url("/static/img/bg.jpg");
+}
+
+.hero__title {
+  color: #fff;
+}
+
+.hero__subtitle {
+  color: #fff;
+}
+
+.button--secondary {
+  background-color: var(--ifm-color-primary);
+  border-color: var(--ifm-color-primary);
+}
+
+.button--secondary:hover {
+  color: #fff;
+}
