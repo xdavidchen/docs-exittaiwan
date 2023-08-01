@@ -10,6 +10,10 @@ const config = {
   tagline: '這裡有你出國需要的教學 / 攻略 / 工具',
   favicon: 'img/favicon.ico',
 
+  themeConfig: {
+    metadata: [{name: '知識庫 💡', content: 'travel, study abroad'}],
+  },
+
   // Set the production url of your site here
   url: 'https://docs.xdavidchen.com',
   // Set the /<baseUrl>/ pathname under which your site is served
