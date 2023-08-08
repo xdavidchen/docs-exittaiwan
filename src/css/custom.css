@@ -46,3 +46,7 @@
 .button--secondary:hover {
   color: #fff;
 }
+
+.footer__copyright {
+  font-size: 0.6em;
+}

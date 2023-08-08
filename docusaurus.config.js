@@ -153,7 +153,7 @@ const config = {
           },
         ],
         //copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-        copyright: `© ${new Date().getFullYear()} David Chen`,
+        copyright: `© ${new Date().getFullYear()} David Chen *此網站上的內容包含行銷連結，透過連結購買，可以幫助我獲得些許收入`,
       },
       prism: {
         theme: lightCodeTheme,
