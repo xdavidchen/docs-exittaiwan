@@ -108,6 +108,10 @@ const config = {
                 to: '/docs/如何快速上手',
               },
               {
+                label: '每次出國都看看',
+                to: '/docs/category/每次出國都看看',
+              },
+              {
                 label: '奧地利打工度假',
                 to: '/docs/category/奧地利打工度假',
               },
