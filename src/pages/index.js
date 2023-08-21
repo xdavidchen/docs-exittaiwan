@@ -31,7 +31,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`知識庫 💡`}
+      title={`首頁`}
       description="這裡有你出國需要的教學 / 攻略 / 工具">
         <Head>
           <script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="b347b00d-9393-4bb3-8cb9-7daaf1a18057" async></script>
