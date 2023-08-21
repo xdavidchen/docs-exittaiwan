@@ -11,7 +11,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   themeConfig: {
-    metadata: [{name: '知識庫 💡', content: 'travel, study abroad'}],
+    metadata: [{name: '知識庫 💡', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
   },
 
   // Set the production url of your site here
@@ -110,16 +110,16 @@ const config = {
             title: '教學',
             items: [
               {
-                label: '如何快速上手',
+                label: '如何使用這個網站',
                 to: '/docs/如何快速上手',
               },
               {
-                label: '每次出國都看看',
+                label: '每次出國前都看看',
                 to: '/docs/category/每次出國都看看',
               },
               {
-                label: '奧地利打工度假',
-                to: '/docs/category/奧地利打工度假',
+                label: '到處逛逛',
+                to: '/blog',
               },
             ],
           },
