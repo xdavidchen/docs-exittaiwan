@@ -46,8 +46,8 @@ const config = {
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          //blogTitle: 'Docusaurus blog!',
-          //blogDescription: 'A Docusaurus powered blog!',
+          blogTitle: '攻略',
+          blogDescription: 'David 知識庫的攻略文章，找到國外飯店住宿、行程規劃、優惠票卷等等各類資訊！',
           //postsPerPage: 'ALL', default = 10
           showReadingTime: true,
           readingTime: ({content, frontMatter, defaultReadingTime}) =>
