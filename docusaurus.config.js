@@ -95,7 +95,7 @@ const config = {
           {to: '/blog', label: '攻略', position: 'left'},
           {
             href: 'https://xdavidchen.com/zh-tw',
-            label: '前往主網站',
+            label: 'xdavidchen.com',
             position: 'right',
           },
         ],
