@@ -10,10 +10,6 @@ const config = {
   tagline: '這裡有你出國需要的教學 / 攻略 / 工具',
   favicon: 'img/favicon.ico',
 
-  themeConfig: {
-    metadata: [{name: '知識庫 💡', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
-  },
-
   // Set the production url of your site here
   url: 'https://docs.xdavidchen.com',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -74,6 +70,7 @@ const config = {
     ({
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
+      metadata: [{name: '知識庫 💡', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
       announcementBar: {
         id: 'support_us',
         content:
