@@ -115,7 +115,7 @@ const config = {
                 to: '/docs/category/每次出國都看看',
               },
               //{
-                //label: '到處逛逛',
+                //label: '查看攻略',
                 //to: '/blog',
               //},
             ],
