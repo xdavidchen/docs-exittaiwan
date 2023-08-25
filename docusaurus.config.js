@@ -92,7 +92,7 @@ const config = {
             position: 'left',
             label: '教學',
           },
-          {to: '/blog', label: '攻略', position: 'left'},
+          //{to: '/blog', label: '攻略', position: 'left'},
           {
             href: 'https://xdavidchen.com/zh-tw',
             label: 'xdavidchen.com',
@@ -114,10 +114,10 @@ const config = {
                 label: '每次出國都看看',
                 to: '/docs/category/每次出國都看看',
               },
-              {
-                label: '到處逛逛',
-                to: '/blog',
-              },
+              //{
+                //label: '到處逛逛',
+                //to: '/blog',
+              //},
             ],
           },
           {
