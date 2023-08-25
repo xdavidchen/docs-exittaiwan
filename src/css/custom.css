@@ -27,7 +27,7 @@
 }
 
 .hero {
-  background-image: url("/static/img/bg.jpg");
+  background-image: url("/static/img/bg.jpg"); /* https://stackoverflow.com/questions/69846532/how-to-change-the-background-image-on-your-landing-page-in-docusaurus */
 }
 
 .hero__title {
