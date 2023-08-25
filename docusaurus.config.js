@@ -81,10 +81,10 @@ const config = {
       },
       navbar: {
         title: 'David 知識庫',
-        /*logo: {
-          alt: 'My Site Logo',
+        logo: {
+          alt: 'David Chen Logo',
           src: 'img/logo.svg',
-        },*/
+        },
         items: [
           {
             type: 'docSidebar',
