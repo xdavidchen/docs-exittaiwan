@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '知識庫 💡',
-  tagline: '這裡有你出國需要的教學 / 攻略 / 工具',
+  title: 'David 知識庫',
+  tagline: '出國需要的教學、攻略、工具，這裡通通都有 👋🏼',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -46,7 +46,16 @@ const config = {
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          //blogTitle: 'Docusaurus blog!',
+          //blogDescription: 'A Docusaurus powered blog!',
+          //postsPerPage: 'ALL', default = 10
           showReadingTime: true,
+          readingTime: ({content, frontMatter, defaultReadingTime}) =>
+          frontMatter.hide_reading_time
+            ? undefined
+            : defaultReadingTime({content}),
+          blogSidebarTitle: '最新攻略',
+          blogSidebarCount: 'ALL',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -95,7 +104,7 @@ const config = {
           //{to: '/blog', label: '攻略', position: 'left'},
           {
             href: 'https://xdavidchen.com/zh-tw',
-            label: 'xdavidchen.com',
+            label: '前往 David 的個人網站',
             position: 'right',
           },
         ],
