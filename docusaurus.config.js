@@ -81,10 +81,10 @@ const config = {
       },
       navbar: {
         title: 'David 知識庫',
-        logo: {
+        /*logo: {
           alt: 'David Chen Logo',
           src: 'img/logo.svg',
-        },
+        },*/
         items: [
           {
             type: 'docSidebar',
@@ -149,7 +149,7 @@ const config = {
                 href: 'https://xdavidchen.com/zh-tw/',
               },
               {
-                label: '關於生活靈感 / 自我成長 / 品牌行銷（英）',
+                label: '生活靈感 / 自我成長 / 品牌行銷（英）',
                 href: 'https://xdavidchen.com/en/',
               },
               {
