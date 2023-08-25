@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-image: Hero-Logo-Wise.webp
+image: "./Hero-Logo-Wise.webp"
 description: Wise 是近年許多在外國留學、工作、旅行的台灣人喜歡使用的數位金融工具，它提供許多基本的金融服務，申請資格和流程卻比傳統銀行簡單。
 keywords: [Wise, Wise 網銀, Wise 是什麼, Wise 開戶, Wise 好用嗎, Wise 優點, Wise 缺點]
 ---
