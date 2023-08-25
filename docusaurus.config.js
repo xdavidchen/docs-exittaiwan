@@ -111,8 +111,8 @@ const config = {
                 to: '/docs/如何快速上手',
               },
               {
-                label: '每次出國前都看看',
-                to: '/docs/category/每次出國都看看',
+                label: '每次出國都看看',
+                to: '/docs/每次出國都看看',
               },
               {
                 label: '到處逛逛',
