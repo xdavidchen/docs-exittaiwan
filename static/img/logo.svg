@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
 <svg width="100%" height="100%" viewBox="0 0 1280 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <defs>
+        <style type="text/css">
+        path {
+            fill: black;
+        }
+        @media (prefers-color-scheme: dark) {
+            path { fill: white; }
+        }
+        </style>
+    </defs>
+    
     <rect id="Artboard1" x="0" y="0" width="1280" height="1280" style="fill:none;"/>
     <g id="Artboard11" serif:id="Artboard1">
         <g transform="matrix(1.01534,0,0,1.01534,-68.6087,48.9717)">
             <g transform="matrix(1.18638,0,0,1.18638,-6363.81,-119.281)">
-                <path d="M6196.36,640C6196.36,801.619 6065.14,932.834 5903.53,932.834C5741.9,932.834 5610.69,801.619 5610.69,640C5610.69,478.381 5741.9,347.166 5903.53,347.166L5903.53,455.06C5801.45,455.06 5718.58,537.929 5718.58,640C5718.58,742.071 5801.45,824.94 5903.53,824.94C6005.6,824.94 6088.47,742.071 6088.47,640L6196.36,640Z" style="fill:rgb(164,118,79);"/>
+                <path d="M6196.36,640C6196.36,801.619 6065.14,932.834 5903.53,932.834C5741.9,932.834 5610.69,801.619 5610.69,640C5610.69,478.381 5741.9,347.166 5903.53,347.166L5903.53,455.06C5801.45,455.06 5718.58,537.929 5718.58,640C5718.58,742.071 5801.45,824.94 5903.53,824.94C6005.6,824.94 6088.47,742.071 6088.47,640L6196.36,640Z"/>
             </g>
             <g transform="matrix(1,0,0,1,-1637.2,0)">
-                <path d="M2674.62,640C2674.62,420.655 2496.54,242.575 2277.2,242.575L2277.2,176.785C2532.85,176.785 2740.41,384.344 2740.41,640L2674.62,640Z" style="fill:rgb(164,118,79);"/>
+                <path d="M2674.62,640C2674.62,420.655 2496.54,242.575 2277.2,242.575L2277.2,176.785C2532.85,176.785 2740.41,384.344 2740.41,640L2674.62,640Z"/>
             </g>
         </g>
     </g>
