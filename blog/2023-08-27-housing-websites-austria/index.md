@@ -22,7 +22,7 @@ tags: [🇦🇹奧地利, 租屋]
 1. 是否可以入籍（Anmeldung），中文有人會說**可 an / 不可 an**
 2. 租金是冷租或暖租（暖租租金包含附加費 Nebenkosten）
 3. 房租通常都是透過 SEPA （歐洲的約定轉帳帳戶）每月扣款，了解如何[**快速開一個 Wise 歐洲帳戶**](https://docs.xdavidchen.com/docs/%E5%A5%A7%E5%9C%B0%E5%88%A9/%E5%A5%A7%E5%9C%B0%E5%88%A9%E6%89%93%E5%B7%A5%E5%BA%A6%E5%81%87/%E9%96%8B%E7%AB%8B%E5%A5%A7%E5%9C%B0%E5%88%A9%E9%8A%80%E8%A1%8C%E6%88%B6%E9%A0%AD/%E7%B6%B2%E8%B7%AF%E9%8A%80%E8%A1%8C/Wise)
-4. 租屋類型（Wohnung, Studio, 還是 WG？）
+4. 租屋類型（Wohnung、Studio、還是 WG？）
 5. 額外費用（平台服務費、仲介費等）
 
 以下來了解各個不同的屋型 / 房型、還有奧地利租屋網站、平台的整理比較～
@@ -92,6 +92,12 @@ WG 是很多留學生、交換學生的第一選擇，因為價格最便宜，�
 - wihast
 - Willhaben
 
+:::caution 免責聲明
+
+此文中的內容僅供參考，房源詳細的身份要求、可否入籍、費用等⋯依各官方網站、各房源為準。
+
+:::
+
 ### Akademikerhilfe
 
 ![Akademikerhilfe 網站頁面](./akademikerhilfe.png)
@@ -142,7 +148,7 @@ Dorms.com 是一個提供全球各城市學生宿舍、青年旅館、共享空�
 
 ![Facebook 頁面在手機上](./facebook.png)
 
-Facebook 有許多社團專門提供租屋方面的訊息，可以透過關鍵字像是 Wohnung, Studio, WG 等等進行搜尋好尋找自己偏好的房型。
+Facebook 有許多社團專門提供租屋方面的訊息，可以透過關鍵字像是 Wohnung、Studio、WG 等等進行搜尋好尋找自己偏好的房型。
 
 :::danger 小心詐騙
 
