@@ -101,7 +101,7 @@ const config = {
             position: 'left',
             label: '教學',
           },
-          //{to: '/blog', label: '攻略', position: 'left'},
+          {to: '/blog', label: '攻略', position: 'left'},
           {
             href: 'https://xdavidchen.com/zh-tw',
             label: '前往 David 的個人網站',
@@ -123,10 +123,10 @@ const config = {
                 label: '每次出國都看看',
                 to: '/docs/category/每次出國都看看',
               },
-              //{
-                //label: '查看攻略',
-                //to: '/blog',
-              //},
+              {
+                label: '查看出國攻略',
+                to: '/blog',
+              },
             ],
           },
           {
@@ -149,10 +149,10 @@ const config = {
           {
             title: '更多內容',
             items: [
-              /*{
-                label: 'Blog',
-                to: '/blog',
-              },*/
+              //{
+                //label: 'Blog',
+                //to: '/blog',
+              //},
               {
                 label: '在國外闖蕩的故事（中）',
                 href: 'https://xdavidchen.com/zh-tw/',
