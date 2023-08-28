@@ -6,6 +6,7 @@ keywords: [奧地利, 維也納, 租屋, 攻略, 租屋網站]
 authors: [david]
 tags: [🇦🇹奧地利, 租屋]
 image: ./housing-website-austria-featured.webp
+date: 2023-08-27
 ---
 
 # 奧地利租房網站＆平台推薦

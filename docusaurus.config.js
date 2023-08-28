@@ -147,7 +147,7 @@ const config = {
             ],
           },
           {
-            title: '更多內容',
+            title: '更多 David 的創作',
             items: [
               //{
                 //label: 'Blog',
