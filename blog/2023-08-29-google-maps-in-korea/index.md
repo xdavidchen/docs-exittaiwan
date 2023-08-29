@@ -1,6 +1,6 @@
 ---
 slug: 為什麼-Google-Maps-在韓國不行用
-title: 為什麼 Google Maps 在韓國不行用？
+title: 為什麼 Google Maps 在韓國不行用？有什麼替代方案？
 description: "如果你現在正在規劃前往韓國的旅行、正在使用 Google Maps 的街景服務想像自己在雲端旅遊，你應該都會發現，Google Maps 到了韓國區域幾乎不能使用，原因是什麼呢？答案就藏在 Google 和南韓政府之間的愛恨糾葛。"
 keywords: [南韓, 韓國, 韓國地圖, 韓國 Google Maps]
 authors: [david]
