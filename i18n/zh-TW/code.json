@@ -1,6 +1,0 @@
-{
-    "theme.SearchBar.label": {
-      "message": "檢索",
-      "description": "The ARIA label and placeholder for search button"
-    }
-  }
