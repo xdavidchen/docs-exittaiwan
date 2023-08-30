@@ -154,17 +154,38 @@ const config = {
                 //to: '/blog',
               //},
               {
-                label: '在國外闖蕩的故事（中）',
+                label: '國外故事（中）',
                 href: 'https://xdavidchen.com/zh-tw/',
               },
               {
-                label: '生活靈感 / 自我成長 / 品牌行銷（英）',
+                label: '品牌行銷（英）',
                 href: 'https://xdavidchen.com/en/',
               },
               {
                 label: '攝影作品',
                 href: 'https://portfolio.xdavidchen.com/',
               },
+            ],
+          },
+          {
+            title: '友站連結',
+            items: [
+              //{
+                //label: 'Blog',
+                //to: '/blog',
+              //},
+              {
+                label: '中華民國外交部駐外機構',
+                href: 'https://www.boca.gov.tw/sp-foof-arealp-All-1.html',
+              },
+              /*{
+                label: '生活靈感 / 自我成長 / 品牌行銷（英）',
+                href: 'https://xdavidchen.com/en/',
+              },
+              {
+                label: '攝影作品',
+                href: 'https://portfolio.xdavidchen.com/',
+              },*/
             ],
           },
         ],
