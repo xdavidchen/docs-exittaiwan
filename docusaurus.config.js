@@ -28,9 +28,38 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-tw',
-    locales: ['zh-tw'],
+    defaultLocale: 'zh-TW',
+    locales: ['zh-TW'],
   },
+
+    plugins: [
+  /*  [require.resolve('@cmfcmf/docusaurus-search-local'), {
+      blogRouteBasePath: '/blog', // must correspond to the base route path configured for the blog plugin
+      docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
+      indexBlog: true, // whether to index blog pages
+      indexDocs: true, // whether to index docs pages
+      indexPages: false, // whether to index static pages
+      // /404.html is never indexed
+      language: "en" // language of your documentation, see next section
+    }]*/
+    //require.resolve('docusaurus-lunr-search') 
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      {
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        language: ["en", "zh"],
+        indexDocs: true, // whether to index docs pages
+        indexBlog: true,
+        docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
+        blogRouteBasePath: '/blog',
+        indexPages: true, // whether to index static pages
+      },
+    ],
+  ],
 
   presets: [
     [
