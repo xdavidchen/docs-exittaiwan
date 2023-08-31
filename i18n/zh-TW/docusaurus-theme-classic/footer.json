@@ -1,0 +1,62 @@
+{
+  "link.title.教學": {
+    "message": "教學",
+    "description": "The title of the footer links column with title=教學 in the footer"
+  },
+  "link.title.社群": {
+    "message": "社群",
+    "description": "The title of the footer links column with title=社群 in the footer"
+  },
+  "link.title.更多 David 的創作": {
+    "message": "更多 David 的創作",
+    "description": "The title of the footer links column with title=更多 David 的創作 in the footer"
+  },
+  "link.title.友站連結": {
+    "message": "友站連結",
+    "description": "The title of the footer links column with title=友站連結 in the footer"
+  },
+  "link.item.label.如何使用這個網站": {
+    "message": "如何使用這個網站",
+    "description": "The label of footer link with label=如何使用這個網站 linking to /docs/如何快速上手"
+  },
+  "link.item.label.每次出國都看看": {
+    "message": "每次出國都看看",
+    "description": "The label of footer link with label=每次出國都看看 linking to /docs/category/每次出國都看看"
+  },
+  "link.item.label.查看出國攻略": {
+    "message": "查看出國攻略",
+    "description": "The label of footer link with label=查看出國攻略 linking to /blog"
+  },
+  "link.item.label.免費電子報": {
+    "message": "免費電子報",
+    "description": "The label of footer link with label=免費電子報 linking to https://newsletter.xdavidchen.com/zh-tw"
+  },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/@xdavidchen/featured"
+  },
+  "link.item.label.小額贊助": {
+    "message": "小額贊助",
+    "description": "The label of footer link with label=小額贊助 linking to https://davidchen.bobaboba.me"
+  },
+  "link.item.label.國外故事（中）": {
+    "message": "國外故事（中）",
+    "description": "The label of footer link with label=國外故事（中） linking to https://xdavidchen.com/zh-tw/"
+  },
+  "link.item.label.品牌行銷（英）": {
+    "message": "品牌行銷（英）",
+    "description": "The label of footer link with label=品牌行銷（英） linking to https://xdavidchen.com/en/"
+  },
+  "link.item.label.攝影作品": {
+    "message": "攝影作品",
+    "description": "The label of footer link with label=攝影作品 linking to https://portfolio.xdavidchen.com/"
+  },
+  "link.item.label.中華民國外交部駐外機構": {
+    "message": "中華民國外交部駐外機構",
+    "description": "The label of footer link with label=中華民國外交部駐外機構 linking to https://www.boca.gov.tw/sp-foof-arealp-All-1.html"
+  },
+  "copyright": {
+    "message": "© 2023 David Chen *此網站上的內容包含行銷連結，透過連結購買，可以幫助我獲得些許收入",
+    "description": "The footer copyright"
+  }
+}

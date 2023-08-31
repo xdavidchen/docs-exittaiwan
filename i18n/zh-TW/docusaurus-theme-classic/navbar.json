@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "David 知識庫",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "David Chen Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.教學": {
+    "message": "教學",
+    "description": "Navbar item with label 教學"
+  },
+  "item.label.攻略": {
+    "message": "攻略",
+    "description": "Navbar item with label 攻略"
+  },
+  "item.label.前往 David 的個人網站": {
+    "message": "前往 David 的個人網站",
+    "description": "Navbar item with label 前往 David 的個人網站"
+  }
+}

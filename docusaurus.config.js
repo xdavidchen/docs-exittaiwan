@@ -57,8 +57,8 @@ const config = {
         docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
         blogRouteBasePath: '/blog',
         indexPages: true, // whether to index static pages
-      },
-    ],
+      }, //thank you https://github.com/dhitimedin/docusaurus3/blob/master/docusaurus.config.js
+    ], // also this if I want to change it to theme later https://github.com/easyops-cn/docusaurus-search-local/issues/262
   ],
 
   presets: [
@@ -76,7 +76,7 @@ const config = {
         },
         blog: {
           blogTitle: '攻略',
-          blogDescription: 'David 知識庫的攻略文章，找到國外飯店住宿、行程規劃、優惠票卷等等各類資訊！',
+          blogDescription: '這裡有 David 知識庫的攻略文章，找到國外飯店住宿、行程規劃、優惠票卷等等各類資訊！',
           //postsPerPage: 'ALL', default = 10
           showReadingTime: true,
           readingTime: ({content, frontMatter, defaultReadingTime}) =>

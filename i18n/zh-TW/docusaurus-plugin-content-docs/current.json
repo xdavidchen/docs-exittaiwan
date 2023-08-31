@@ -1,0 +1,150 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.introSidebar.category.🛫 每次出國都看看": {
+    "message": "🛫 每次出國都看看",
+    "description": "The label for category 🛫 每次出國都看看 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🛫 每次出國都看看.link.generated-index.description": {
+    "message": "做好準備再出國～",
+    "description": "The generated-index page description for category 🛫 每次出國都看看 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.確認入境文件": {
+    "message": "確認入境文件",
+    "description": "The label for category 確認入境文件 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.確認入境文件.link.generated-index.description": {
+    "message": "根據目的地國家，查看入境時需要攜帶的相關文件！",
+    "description": "The generated-index page description for category 確認入境文件 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.歐洲國家入境相關規定": {
+    "message": "歐洲國家入境相關規定",
+    "description": "The label for category 歐洲國家入境相關規定 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.歐洲國家入境相關規定.link.generated-index.description": {
+    "message": "在入境歐洲＆歐盟國家前做好準備。",
+    "description": "The generated-index page description for category 歐洲國家入境相關規定 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.亞洲國家入境相關規定": {
+    "message": "亞洲國家入境相關規定",
+    "description": "The label for category 亞洲國家入境相關規定 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.亞洲國家入境相關規定.link.generated-index.description": {
+    "message": "在入境亞洲國家前做好準備。",
+    "description": "The generated-index page description for category 亞洲國家入境相關規定 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.北美洲國家入境相關規定": {
+    "message": "北美洲國家入境相關規定",
+    "description": "The label for category 北美洲國家入境相關規定 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.北美洲國家入境相關規定.link.generated-index.description": {
+    "message": "在入境北美洲國家前做好準備。",
+    "description": "The generated-index page description for category 北美洲國家入境相關規定 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇦🇹 奧地利": {
+    "message": "🇦🇹 奧地利",
+    "description": "The label for category 🇦🇹 奧地利 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇦🇹 奧地利.link.generated-index.description": {
+    "message": "這裡有前往奧地利留學、交換學生、工作、打工度假你所需要的資訊和準備方法！",
+    "description": "The generated-index page description for category 🇦🇹 奧地利 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.奧地利打工度假": {
+    "message": "奧地利打工度假",
+    "description": "The label for category 奧地利打工度假 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.奧地利打工度假.link.generated-index.description": {
+    "message": "奧地利在 2014 年和台灣簽署青年打工計畫相關文件，開放 18 ~ 30 歲的台灣人前往奧地利以度假為目的並以短期打工賺取旅遊經費。想要了解奧地利打工度假要怎麼申請？簽證申請表格怎麼填？到了奧地利要注意哪些事情？這份文件包含了所有關於前往奧地利打工度假的資訊！",
+    "description": "The generated-index page description for category 奧地利打工度假 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.1. 申請打工度假簽證": {
+    "message": "1. 申請打工度假簽證",
+    "description": "The label for category 1. 申請打工度假簽證 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.1. 申請打工度假簽證.link.generated-index.description": {
+    "message": "照著編號一步一步完成，或是直接點選需要的教學照著做，申請奧地利打工度假簽證吧！",
+    "description": "The generated-index page description for category 1. 申請打工度假簽證 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.2. 開立奧地利銀行戶頭": {
+    "message": "2. 開立奧地利銀行戶頭",
+    "description": "The label for category 2. 開立奧地利銀行戶頭 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.2. 開立奧地利銀行戶頭.link.generated-index.description": {
+    "message": "開立奧地利銀行戶頭的教學。",
+    "description": "The generated-index page description for category 2. 開立奧地利銀行戶頭 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.網路銀行": {
+    "message": "網路銀行",
+    "description": "The label for category 網路銀行 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.網路銀行.link.generated-index.description": {
+    "message": "開立奧地利網路銀行戶頭的教學。",
+    "description": "The generated-index page description for category 網路銀行 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.實體銀行": {
+    "message": "實體銀行",
+    "description": "The label for category 實體銀行 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.實體銀行.link.generated-index.description": {
+    "message": "開立歐洲當地實體銀行戶頭教學",
+    "description": "The generated-index page description for category 實體銀行 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇦🇺 澳洲": {
+    "message": "🇦🇺 澳洲",
+    "description": "The label for category 🇦🇺 澳洲 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇦🇺 澳洲.link.generated-index.description": {
+    "message": "這裡有前往澳洲留學、交換學生、工作、打工度假你所需要的資訊和準備方法！",
+    "description": "The generated-index page description for category 🇦🇺 澳洲 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇨🇦 加拿大": {
+    "message": "🇨🇦 加拿大",
+    "description": "The label for category 🇨🇦 加拿大 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇨🇦 加拿大.link.generated-index.description": {
+    "message": "這裡有前往加拿大留學、交換學生、工作、打工度假你所需要的資訊和準備方法！",
+    "description": "The generated-index page description for category 🇨🇦 加拿大 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇩🇪 德國": {
+    "message": "🇩🇪 德國",
+    "description": "The label for category 🇩🇪 德國 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇩🇪 德國.link.generated-index.description": {
+    "message": "這裡有前往德國留學、交換學生、工作、打工度假你所需要的資訊和準備方法！",
+    "description": "The generated-index page description for category 🇩🇪 德國 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.德國交換學生": {
+    "message": "德國交換學生",
+    "description": "The label for category 德國交換學生 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.德國交換學生.link.generated-index.description": {
+    "message": "所有關於前往德國交換學生的資訊！",
+    "description": "The generated-index page description for category 德國交換學生 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.1. 申請交換學生簽證": {
+    "message": "1. 申請交換學生簽證",
+    "description": "The label for category 1. 申請交換學生簽證 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.1. 申請交換學生簽證.link.generated-index.description": {
+    "message": "台灣人申請德國交換學生簽證要注意哪些事情？準備什麼文件？在這個頁面，你可以找到所有關於申請德國交換學生簽證的基本資訊和文件準備的詳細說明。",
+    "description": "The generated-index page description for category 1. 申請交換學生簽證 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇯🇵 日本": {
+    "message": "🇯🇵 日本",
+    "description": "The label for category 🇯🇵 日本 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇯🇵 日本.link.generated-index.description": {
+    "message": "這裡有前往日本留學、交換學生、工作、打工度假你所需要的資訊和準備方法！",
+    "description": "The generated-index page description for category 🇯🇵 日本 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇰🇷 韓國": {
+    "message": "🇰🇷 韓國",
+    "description": "The label for category 🇰🇷 韓國 in sidebar introSidebar"
+  },
+  "sidebar.introSidebar.category.🇰🇷 韓國.link.generated-index.description": {
+    "message": "這裡有前往韓國留學、交換學生、工作、打工度假你所需要的資訊和準備方法！",
+    "description": "The generated-index page description for category 🇰🇷 韓國 in sidebar introSidebar"
+  }
+}

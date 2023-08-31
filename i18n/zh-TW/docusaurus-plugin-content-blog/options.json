@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "攻略",
+    "description": "The title for the blog used in SEO"
+  },
+  "description": {
+    "message": "這裡有 David 知識庫的攻略文章，找到國外飯店住宿、行程規劃、優惠票卷等等各類資訊！",
+    "description": "The description for the blog used in SEO"
+  },
+  "sidebar.title": {
+    "message": "最新攻略",
+    "description": "The label for the left sidebar"
+  }
+}
