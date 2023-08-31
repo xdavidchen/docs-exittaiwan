@@ -83,7 +83,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '透過小額贊助，支持我繼續提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://davidchen.bobaboba.me"><b>點我前往</b></a>',
+          '找不到你要的資訊嗎？透過小額贊助，支持我提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://davidchen.bobaboba.me"><b>點我前往</b></a>',
         backgroundColor: '#F7FE79',
         textColor: '#000',
         isCloseable: false,
