@@ -197,7 +197,7 @@ const config = {
             ],
           },
           {
-            title: '友站連結',
+            title: '其他連結',
             items: [
               //{
                 //label: 'Blog',
@@ -207,14 +207,14 @@ const config = {
                 label: '中華民國外交部駐外機構',
                 href: 'https://www.boca.gov.tw/sp-foof-arealp-All-1.html',
               },
-              /*{
-                label: '生活靈感 / 自我成長 / 品牌行銷（英）',
-                href: 'https://xdavidchen.com/en/',
+              {
+                label: '免責聲明與使用條款',
+                href: '/terms',
               },
               {
-                label: '攝影作品',
-                href: 'https://portfolio.xdavidchen.com/',
-              },*/
+                label: '版權聲明',
+                href: '/copyright',
+              },
             ],
           },
         ],
