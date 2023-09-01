@@ -108,7 +108,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docs-social-card.jpg',
-      metadata: [{title: 'David 知識庫', description: '出國需要的教學、攻略、工具，通通都在 David 知識庫！', image: 'img/docs-social-card.jpg', name: '知識庫 💡', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
+      metadata: [{title: 'David 知識庫', description: '出國需要的教學、攻略、工具，不管你是要出國旅遊、出國讀書、出國工作、只要是出國相關資訊，通通都在 David 知識庫！', image: 'img/docs-social-card.jpg', name: '知識庫 💡', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
       announcementBar: {
         id: 'support_us',
         content:
