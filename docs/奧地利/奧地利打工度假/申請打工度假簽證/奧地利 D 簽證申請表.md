@@ -2,6 +2,7 @@
 sidebar_position: 2
 showLastUpdateTime: true
 title: 1.1 奧地利 D 簽證申請表
+slug: "/category/奧地利/奧地利打工度假/申請打工度假簽證/奧地利D簽證申請表"
 ---
 
 # 奧地利 D 簽證申請表

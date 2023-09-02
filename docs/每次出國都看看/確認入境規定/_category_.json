@@ -3,6 +3,7 @@
   "position":2,
   "link": {
     "type": "generated-index",
-    "description": "根據目的地國家，查看入境規定、入境需要辦理的手續、以及入境時需要攜帶的相關文件！"
+    "description": "根據目的地國家，查看入境規定、入境需要辦理的手續、以及入境時需要攜帶的相關文件！",
+    "slug": "category/每次出國都看看/確認入境規定"
   }
 }
