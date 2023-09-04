@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'David 知識庫',
-  tagline: '出國需要的教學、攻略、工具，這裡通通都有 👋🏼',
+  title: 'David 知識庫 - 找到出國的所有資訊',
+  tagline: '從行前準備、文件申請步驟、國外住宿推薦、國外旅遊景點、甚至到國外當地生活的小細節，任何你出國需要資源和工具，David 知識庫通通都有！',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
