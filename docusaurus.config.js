@@ -128,7 +128,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'introSidebar',
             position: 'left',
-            label: '教學',
+            label: '出國須知 / 申請教學',
           },
           {to: '/blog', label: '攻略', position: 'left'},
           {
