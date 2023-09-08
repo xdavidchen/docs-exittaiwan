@@ -1,8 +1,8 @@
 ---
 slug: 給台灣人的wise網銀全攻略
 title: Wise 是什麼？專門寫給台灣人的 Wise 網銀全攻略（開戶、入金、出金、換匯）
-description: "test。"
-keywords: [網銀, Wise網銀, Wise台灣, 網銀推薦]
+description: 台灣人適合用 Wise 嗎？Wise 要怎麼開戶？ 它是網銀嗎？這篇專門寫給台灣人的 Wise 全攻略，解答你所有對於 Wise 的問題！
+keywords: [Wise, Wise 網銀, Wise 是什麼, Wise 開戶, Wise 好用嗎, Wise 優點, Wise 缺點]
 authors: [david]
 tags: [網銀]
 image: ./wise.webp
