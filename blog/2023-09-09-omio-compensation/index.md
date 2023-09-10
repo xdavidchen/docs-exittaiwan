@@ -1,6 +1,6 @@
 ---
 title: 有理就該力爭：獲得 Omio 賠償的案例分享
-slug: 獲得 Omio 賠償的案例分享
+slug: 獲得omio賠償的案例分享
 description: 在 Omio 這樣的交通訂票 App 上面遇到問題怎麼辦？旅行時不要因為怕麻煩、語言不通而認賠，只要耐心溝通、釐清責任，通常都會有不錯的結果。
 keywords: [Omio, ÖBB, 歐洲旅遊]
 authors: [david]
