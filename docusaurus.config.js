@@ -75,8 +75,8 @@ const config = {
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
-          blogTitle: '攻略',
-          blogDescription: '這裡有 David 知識庫的攻略文章，找到國外飯店住宿、行程規劃、優惠票卷等等各類資訊！',
+          blogTitle: '各國攻略',
+          blogDescription: '在這裡找到各國生活、工作、旅行經驗分享，還有國外飯店住宿推薦、學習外國旅行行程如何規劃、獲得優惠票卷等等各類資訊等你來發掘！',
           //postsPerPage: 'ALL', default = 10
           showReadingTime: true,
           readingTime: ({content, frontMatter, defaultReadingTime}) =>
@@ -125,16 +125,62 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'introSidebar',
+            type: 'dropdown',
+            label: '資料夾',
             position: 'left',
-            label: '出國須知 / 申請教學',
+            items: [
+              /*{
+                type: 'docSidebar',
+                sidebarId: 'introSidebar',
+                label: '出國須知 / 申請教學',
+              },*/
+              {
+                label: '💯 開始使用',
+                to: '/docs/如何快速上手',
+              },
+              {
+                label: '🛫 每次出國都看看',
+                to: '/docs/category/每次出國都看看',
+              },
+              {
+                label: '👍🏼 好用資源',
+                to: '/docs/category/好用資源',
+              },
+              // ... more items
+            ],
           },
-          {to: '/blog', label: '攻略', position: 'left'},
+          {
+            type: 'dropdown',
+            label: '各國攻略',
+            position: 'left',
+            items: [
+              {
+                to: '/blog',
+                label: '📖 所有攻略',
+              },
+              {
+                label: '🇦🇹 奧地利攻略',
+                to: '/blog/tags/🇦🇹-奧地利',
+              },
+              {
+                label: '🇰🇷 韓國攻略',
+                to: '/blog/tags/🇰🇷-南韓',
+              },
+              {
+                label: '🇺🇸 美國攻略',
+                to: '/blog/tags/🇺🇸-美國',
+              },
+              /*{
+                label: 'Facebook',
+                href: 'https://www.facebook.com',
+              },*/
+              // ... more items
+            ],
+          },
           {
             href: 'https://xdavidchen.com/zh-tw',
-            label: '前往 David 的個人網站',
-            position: 'right',
+            label: '關於我',
+            position: 'left',
           },
         ],
       },
@@ -176,7 +222,7 @@ const config = {
             ],
           },
           {
-            title: '更多 David 的創作',
+            title: '更多創作',
             items: [
               //{
                 //label: 'Blog',
