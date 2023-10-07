@@ -27,16 +27,16 @@ date: 2023-10-07
 
 想要在首爾的這三大商圈有最完整的體驗，少不了一間**適合的住宿**！這篇文章，我整理了十間我最推薦且包含各個價格區間、位在首爾的弘大、梨大、新村商圈飯店推薦給前往韓國旅遊的你們，包括：
 
-1. 弘大風格旅館
-2. Mercure Ambassador Seoul Hongdae
-3. Localstitch Seogyo Town
-4. 鄭家旅館
-5. 首爾弘大智選假日飯店
-6. 弘大愛博 2 號旅館
-7. Hi there guesthouse
-8. 首爾大廈旅館
-9. 梨大首爾大旅館
-10. K'STAY Sinchon
+1. [**弘大風格旅館**](#首爾弘大梨大新村飯店推薦-1---弘大風格旅館)
+2. [**Mercure Ambassador Seoul Hongdae**](#首爾弘大梨大新村飯店推薦-2---mercure-ambassador-seoul-hongdae)
+3. [**Localstitch Seogyo Town**](#首爾弘大梨大新村飯店推薦-3---localstitch-seogyo-town)
+4. [**鄭家旅館**](#首爾弘大梨大新村飯店推薦-4---鄭家旅館)
+5. [**首爾弘大智選假日飯店**](#首爾弘大梨大新村飯店推薦-5---首爾弘大智選假日飯店)
+6. [**弘大愛博 2 號旅館**](#首爾弘大梨大新村飯店推薦-6---弘大愛博-2-號旅館)
+7. [**Hi there guesthouse**](#首爾弘大梨大新村飯店推薦-7---hi-there-guesthouse)
+8. [**首爾大廈旅館**](#首爾弘大梨大新村飯店推薦-8---首爾大廈旅館)
+9. [**梨大首爾大旅館**](#首爾弘大梨大新村飯店推薦-9---梨大首爾大旅館)
+10. [**K'STAY Sinchon**](#首爾弘大梨大新村飯店推薦-10---kstay-sinchon)
 
 因為[**在韓國 Google Maps 不太能用**](https://docs.xdavidchen.com/blog/%E7%82%BA%E4%BB%80%E9%BA%BC-Google-Maps-%E5%9C%A8%E9%9F%93%E5%9C%8B%E4%B8%8D%E8%A1%8C%E7%94%A8)，以下的飯店地址資訊我都直接連接到 Naver Map 和 Kakao Map 囉！
 
@@ -59,7 +59,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/hongdae-style-guesthouse.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多弘大風格旅館房間的照片喔！
 
 **弘大風格旅館基本資訊**
-- 地址：23-3 World Cup buk-ro 4-gil, Mapo-gu, Seoul | 韓文：서울특별시 마포구 월드컵북로4길 23-3(동교동 )
+- 地址：23-3 World Cup buk-ro 4-gil, Mapo-gu, Seoul | 韓文：서울특별시 마포구 월드컵북로4길 23-3 (동교동)
     - [Naver Map](https://naver.me/xUSugtLQ)
     - [Kakao Map](https://kko.to/VPxO0Hn_vg)
 - 地鐵：地鐵弘大入口站 1 號出口步行約 2 分鐘
@@ -79,7 +79,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/mercure-ambassador-seoul-hongdae.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 Mercure Ambassador Seoul Hongdae 房間的照片喔！
 
 **Mercure Ambassador Seoul Hongdae 基本資訊**
-- 地址：144 Yanghwa-ro, Mapo-gu, Seoul | 韓文：서울특별시 마포구 양화로 144(동교동 )
+- 地址：144 Yanghwa-ro, Mapo-gu, Seoul | 韓文：서울특별시 마포구 양화로 144 (동교동)
     - [Naver Map](https://naver.me/5Z0Jzeqd)
     - [Kakao Map](https://kko.to/yxKU44dorA)
 - 地鐵：地鐵弘大入口站 9 號出口步行約 1 分鐘
@@ -99,7 +99,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/rokeolseutici-seogyotaun.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多 Localstitch Seogyo Town 房間的照片喔！
 
 **Localstitch Seogyo Town 基本資訊**
-- 地址：41 World Cup buk-ro 5-gil, Mapo-gu, Seoul | 韓文：서울특별시 마포구 월드컵북로5길 41(서교동 )
+- 地址：41 World Cup buk-ro 5-gil, Mapo-gu, Seoul | 韓文：서울특별시 마포구 월드컵북로5길 41 (서교동)
     - [Naver Map](https://naver.me/x7r7qLdG)
     - [Kakao Map](https://kko.to/TOSb_iojwQ)
 - 地鐵：地鐵弘大入口站 1 號出口步行約 7 分鐘
@@ -119,7 +119,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/jeong-house.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多鄭家旅館房間的照片喔！
 
 **鄭家旅館基本資訊**
-- 地址：11-4 Sinchon-ro, Seodaemun-gu, Seoul | 韓文：서울특별시 서대문구 신촌로 11-4(창천동 )
+- 地址：11-4 Sinchon-ro, Seodaemun-gu, Seoul | 韓文：서울특별시 서대문구 신촌로 11-4 (창천동)
     - [Naver Map](https://naver.me/xZ3QvHND)
     - [Kakao Map](https://kko.to/k3ElE99njS)
 - 地鐵：地鐵弘大入口站 1 號出口步行約 2 分鐘
@@ -159,7 +159,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/able-guesthouse-hongdae-2.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多弘大愛博 2 號旅館房間的照片喔！
 
 **弘大愛博 2 號旅館基本資訊**
-- 地址：7-8 Wausan-ro 29ma-gil, Mapo-gu, Seoul | 韓文：서울특별시 마포구 와우산로29마길 7-8(서교동 )
+- 地址：7-8 Wausan-ro 29ma-gil, Mapo-gu, Seoul | 韓文：서울특별시 마포구 와우산로29마길 7-8 (서교동)
     - [Naver Map](https://naver.me/5CbIE5xs)
     - [Kakao Map](https://kko.to/GPpEAF_Owi)
 - 地鐵：地鐵弘大入口站 7 號出口步行約 3 分鐘
@@ -219,7 +219,7 @@ $$$$ = > 10000
 可以到 [Booking.com](https://www.booking.com/hotel/kr/k-grand-hostel-ewha.xt.html?aid=7956794&no_rooms=1&group_adults=2) 上面看更多梨大首爾大旅館房間的照片喔！
 
 **梨大首爾大旅館 基本資訊**
-- 地址：8F, 155 Sinchon-ro, Seodaemun-gu, Seoul | 韓文：서울특별시 서대문구 신촌로 155(대현동 )
+- 地址：8F, 155 Sinchon-ro, Seodaemun-gu, Seoul | 韓文：서울특별시 서대문구 신촌로 155 (대현동)
     - [Naver Map](https://naver.me/5PSwEIGC)
     - [Kakao Map](https://kko.to/V7taJCrZSp)
 - 地鐵：地鐵梨花女子大學站 1 號出口步行約 2 分鐘
