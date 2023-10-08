@@ -111,14 +111,14 @@ const config = {
       // Replace with your project's social card
       image: 'img/docs-social-card.jpg',
       metadata: [{title: 'David 知識庫 - 找到出國的所有資訊', description: '從行前準備、文件申請步驟、國外住宿推薦、國外旅遊景點、甚至到國外當地生活的小細節，任何出國需要的資源和工具，David 知識庫通通都有！', image: 'img/docs-social-card.jpg', name: 'David 知識庫', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
-      /*announcementBar: {
+      announcementBar: {
         id: 'support_us',
         content:
-          '找不到你要的資訊嗎？透過小額贊助，支持我提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://davidchen.bobaboba.me"><b>點我前往</b></a>',
-        backgroundColor: '#F7FE79',
-        textColor: '#000',
+          '透過小額贊助，支持我們繼續提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://davidchen.bobaboba.me"><b>點我前往</b></a>',
+        backgroundColor: '#444950',
+        textColor: '#fff',
         isCloseable: false,
-      },*/
+      },
       docs: {
         sidebar: {
           hideable: true,
