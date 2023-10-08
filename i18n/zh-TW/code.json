@@ -286,7 +286,7 @@
     "message": "everywhere"
   },
   "theme.SearchPage.documentsFound.plurals": {
-    "message": "1 document found|{count} documents found",
+    "message": "找到 1 個頁面|找到 {count} 個頁面",
     "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.SearchPage.noResultsText": {

@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'David 知識庫',
+  title: '出台灣',
   tagline: '出國需要的教學、攻略、工具，這裡通通都有 👋🏼',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.xdavidchen.com',
+  url: 'https://docs.exittaiwan.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -53,9 +53,9 @@ const config = {
         // ```
         language: ["en", "zh"],
         indexDocs: true, // whether to index docs pages
-        indexBlog: true,
-        docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
-        blogRouteBasePath: '/blog',
+        indexBlog: false,
+        docsRouteBasePath: '/', // must correspond to the base route path configured for the docs plugin
+        // blogRouteBasePath: '/blog',
         indexPages: true, // whether to index static pages
       }, //thank you https://github.com/dhitimedin/docusaurus3/blob/master/docusaurus.config.js
     ], // also this if I want to change it to theme later https://github.com/easyops-cn/docusaurus-search-local/issues/262
@@ -68,13 +68,15 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          showLastUpdateTime: true
+          showLastUpdateTime: true,
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
+        blog: false,
+        /**blog: {
           blogTitle: '各國攻略',
           blogDescription: '在這裡找到各國生活、工作、旅行經驗分享，還有國外飯店住宿推薦、學習外國旅行行程如何規劃、獲得優惠票卷等等各類資訊等你來發掘！',
           //postsPerPage: 'ALL', default = 10
@@ -89,7 +91,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           // editUrl:
             // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        },**/
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -109,47 +111,39 @@ const config = {
       // Replace with your project's social card
       image: 'img/docs-social-card.jpg',
       metadata: [{title: 'David 知識庫 - 找到出國的所有資訊', description: '從行前準備、文件申請步驟、國外住宿推薦、國外旅遊景點、甚至到國外當地生活的小細節，任何出國需要的資源和工具，David 知識庫通通都有！', image: 'img/docs-social-card.jpg', name: 'David 知識庫', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
-      announcementBar: {
+      /*announcementBar: {
         id: 'support_us',
         content:
           '找不到你要的資訊嗎？透過小額贊助，支持我提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://davidchen.bobaboba.me"><b>點我前往</b></a>',
         backgroundColor: '#F7FE79',
         textColor: '#000',
         isCloseable: false,
+      },*/
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
       },
       navbar: {
-        title: 'David 知識庫',
+        title: '出台灣',
         logo: {
           alt: 'David Chen Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'dropdown',
-            label: '資料夾',
-            position: 'left',
-            items: [
-              /*{
-                type: 'docSidebar',
-                sidebarId: 'introSidebar',
-                label: '出國須知 / 申請教學',
-              },*/
-              {
-                label: '💯 開始使用',
-                to: '/docs/如何快速上手',
-              },
-              {
-                label: '🛫 每次出國都看看',
-                to: '/docs/category/每次出國都看看',
-              },
-              {
-                label: '👍🏼 好用資源',
-                to: '/docs/category/好用資源',
-              },
-              // ... more items
-            ],
+            label: '開始使用',
+            to: '/',
           },
           {
+            label: '選擇國家',
+            to: '/選擇國家',
+          },
+          {
+            label: '好用工具',
+            to: '/好用工具',
+          },
+          /*{
             type: 'dropdown',
             label: '各國攻略',
             position: 'left',
@@ -170,13 +164,13 @@ const config = {
                 label: '🇺🇸 美國攻略',
                 to: '/blog/tags/🇺🇸-美國',
               },
-              /*{
+              {
                 label: 'Facebook',
                 href: 'https://www.facebook.com',
-              },*/
+              },
               // ... more items
             ],
-          },
+          },*/
           {
             href: 'https://xdavidchen.com/zh-tw',
             label: '關於我',
@@ -185,8 +179,14 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
+          {
+            label: '免責聲明與使用條款',
+            to: '/terms',
+          },
+        ],
+        /**links: [
           {
             title: '教學',
             items: [
@@ -263,9 +263,9 @@ const config = {
               },
             ],
           },
-        ],
+        ],**/
         //copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-        copyright: `© ${new Date().getFullYear()} David Chen *此網站上的內容包含行銷連結，透過連結購買，可以幫助我獲得些許收入`,
+        copyright: `© ${new Date().getFullYear()} ExitTaiwan *此網站上的內容包含行銷連結，透過連結購買，可以幫助我們獲得些許收入經營此站`,
       },
       prism: {
         theme: lightCodeTheme,
