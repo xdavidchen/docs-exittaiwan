@@ -140,8 +140,8 @@ const config = {
             to: '/選擇國家',
           },
           {
-            label: '好用工具',
-            to: '/好用工具',
+            label: '好用資源',
+            to: '/好用資源',
           },
           /*{
             type: 'dropdown',
