@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://docs.xdavidchen.com/sitemap.xml
+Sitemap: https://docs.exittaiwan.com/sitemap.xml
