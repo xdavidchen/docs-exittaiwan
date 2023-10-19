@@ -8,11 +8,6 @@ slug: "/category/奧地利/奧地利打工度假/開立奧地利銀行戶頭/網
 
 # Wise 網銀
 
-<head>
-  <meta name="robots" content="noindex"/>
-  <meta name="googlebot" content="noindex"/>
-</head>
-
 [**Wise**](https://wise.prf.hn/l/8xE13Bp)（前身為 TransferWise）是一間提供國際匯款服務的數位科技公司，兩位前 Skype 的員工為了減少國際間匯款的手續費和過高的匯差，在 2011 年一同創立了 Wise，目前全球已有超過千萬名用戶。
 
 ![Wise 橫幅](./Hero-Logo-Wise.webp)
