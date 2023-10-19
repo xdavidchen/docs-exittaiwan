@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '出台灣',
+  title: 'ExitTaiwan 出台灣',
   tagline: '出國需要的教學、攻略、工具，這裡通通都有 👋🏼',
   favicon: 'img/favicon.ico',
 
@@ -110,7 +110,7 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docs-social-card.jpg',
-      metadata: [{title: 'David 知識庫 - 找到出國的所有資訊', description: '從行前準備、文件申請步驟、國外住宿推薦、國外旅遊景點、甚至到國外當地生活的小細節，任何出國需要的資源和工具，David 知識庫通通都有！', image: 'img/docs-social-card.jpg', name: 'David 知識庫', content: '國外旅遊, 外國旅遊, 國外旅行, 外國旅行, 留學, 打工度假, 海外工作'}],
+      metadata: [{title: 'ExitTaiwan 出台灣', description: '出國需要的教學、攻略、工具，這裡通通都有 👋🏼', image: 'img/docs-social-card.jpg', name: 'ExitTaiwan 出台灣', content: '留學, 打工度假, 海外工作'}],
       announcementBar: {
         id: 'support_us',
         content:
