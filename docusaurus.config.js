@@ -32,7 +32,11 @@ const config = {
     locales: ['zh-TW'],
   },
 
-    plugins: [
+  scripts: [
+    {src: 'https://beamanalytics.b-cdn.net/beam.min.js', 'data-token': "b347b00d-9393-4bb3-8cb9-7daaf1a18057", async: true, defer: true, 'data-domain': 'docs.exittaiwan.com'}
+  ],
+  
+  plugins: [
   /*  [require.resolve('@cmfcmf/docusaurus-search-local'), {
       blogRouteBasePath: '/blog', // must correspond to the base route path configured for the blog plugin
       docsRouteBasePath: '/docs', // must correspond to the base route path configured for the docs plugin
@@ -267,9 +271,6 @@ const config = {
         //copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
         copyright: `© ${new Date().getFullYear()} ExitTaiwan *此網站上的內容包含行銷連結，透過連結購買，可以幫助我們獲得些許收入經營此站`,
       },
-      scripts: [
-        'src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="b347b00d-9393-4bb3-8cb9-7daaf1a18057" async',
-      ],
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
