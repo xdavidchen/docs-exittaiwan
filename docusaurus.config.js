@@ -114,7 +114,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '透過小額贊助，支持我們繼續提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://davidchen.bobaboba.me"><b>點我前往</b></a>',
+          '透過小額贊助，支持我們繼續提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/exittaiwan"><b>點我前往</b></a>',
         backgroundColor: '#444950',
         textColor: '#fff',
         isCloseable: false,
@@ -172,9 +172,9 @@ const config = {
             ],
           },*/
           {
-            href: 'https://xdavidchen.com/zh-tw',
-            label: '關於我',
-            position: 'left',
+            href: 'https://exittaiwan.com',
+            label: '回到主網站',
+            position: 'right',
           },
         ],
       },
@@ -217,7 +217,7 @@ const config = {
               },
               {
                 label: '小額贊助',
-                href: 'https://davidchen.bobaboba.me',
+                href: 'https://ko-fi.com/exittaiwan',
               },
             ],
           },
