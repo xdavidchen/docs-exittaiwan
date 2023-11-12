@@ -59,3 +59,5 @@ export default function HomepageFeatures() {
     </section>
   );
 }
+
+<script src="https://beamanalytics.b-cdn.net/beam.min.js" data-token="b347b00d-9393-4bb3-8cb9-7daaf1a18057" async></script>
