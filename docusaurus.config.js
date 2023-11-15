@@ -187,7 +187,7 @@ const config = {
         links: [
           {
             label: '免責聲明與使用條款',
-            to: '/terms',
+            href: 'https://exittaiwan.com/terms/',
           },
         ],
         /**links: [
