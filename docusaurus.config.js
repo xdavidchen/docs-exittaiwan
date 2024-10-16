@@ -76,8 +76,8 @@ const config = {
           routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          // editUrl:
-            // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl:
+            'https://github.com/xdavidchen/docs-exittaiwan',
         },
         blog: false,
         /**blog: {
@@ -136,10 +136,10 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {
+          /*{
             label: '開始使用',
             to: '/',
-          },
+          },*/
           {
             label: '選擇國家',
             to: '/選擇國家',
@@ -178,7 +178,7 @@ const config = {
           },*/
           {
             href: 'https://exittaiwan.com',
-            label: '回到主網站',
+            label: '旅遊資訊',
             position: 'right',
           },
         ],
