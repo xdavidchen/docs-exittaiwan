@@ -178,7 +178,7 @@ const config = {
           },*/
           {
             href: 'https://exittaiwan.com',
-            label: '旅遊資訊',
+            label: '旅遊資訊 🔗',
             position: 'right',
           },
         ],
