@@ -77,7 +77,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xdavidchen/docs-exittaiwan',
+            'https://github.com/xdavidchen/docs-exittaiwan/blob/main',
         },
         blog: false,
         /**blog: {
