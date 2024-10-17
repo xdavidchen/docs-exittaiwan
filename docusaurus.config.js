@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ExitTaiwan 出台灣',
-  tagline: '出國需要的教學、攻略、工具，這裡通通都有 👋🏼',
+  title: 'ExitTaiwan Docs',
+  tagline: '出國留學、交換、打工度假的資訊，這裡通通都有 👋🏼',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -113,12 +113,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docs-social-card.jpg',
-      metadata: [{title: 'ExitTaiwan 出台灣', description: '出國需要的教學、攻略、工具，這裡通通都有 👋🏼', image: 'img/docs-social-card.jpg', name: 'ExitTaiwan 出台灣', content: '留學, 打工度假, 海外工作'}],
+      image: 'img/docs-banner-homepage.webp',
+      metadata: [{title: 'ExitTaiwan Docs', description: '出國留學、交換、打工度假的資訊，這裡通通都有 👋🏼', image: 'img/docs-banner-homepage.webp', name: 'ExitTaiwan Docs', content: '留學, 打工度假, 海外工作'}],
       announcementBar: {
         id: 'support_us',
         content:
-          '透過小額贊助，支持我們繼續提供實用資訊 → <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/exittaiwan"><b>點我前往</b></a>',
+          '贊助此站 → <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/exittaiwan"><b>點我前往</b></a>',
         backgroundColor: '#444950',
         textColor: '#fff',
         isCloseable: false,
@@ -132,7 +132,7 @@ const config = {
       navbar: {
         title: '出台灣',
         logo: {
-          alt: 'David Chen Logo',
+          alt: 'ExitTaiwan Logo',
           src: 'img/logo.svg',
         },
         items: [
