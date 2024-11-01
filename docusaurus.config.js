@@ -119,7 +119,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '贊助此站 → <a target="_blank" rel="noopener noreferrer" href="https://ko-fi.com/exittaiwan"><b>點我前往</b></a>',
+          '贊助此站 → <a target="_blank" rel="noopener noreferrer" href="https://exittaiwan.gumroad.com/l/membership"><b>點我前往</b></a>',
         backgroundColor: '#444950',
         textColor: '#fff',
         isCloseable: false,
@@ -223,7 +223,7 @@ const config = {
               },
               {
                 label: '小額贊助',
-                href: 'https://ko-fi.com/exittaiwan',
+                href: 'https://exittaiwan.gumroad.com/l/membership',
               },
             ],
           },
