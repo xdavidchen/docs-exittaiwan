@@ -1,41 +1,25 @@
-# Website
+# 專案名稱
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+ExitTaiwan Docs 是一個開源專案，志在提供台灣人一個整合式、完全免費的開放資訊平台，讓所有台灣人都可以只靠自己的準備，一圓出國的夢想。
 
-### Installation
+## 開始貢獻此專案
 
-```
-$ yarn
-```
+你只需要一個 Github 帳號，就可以到特定的頁面使用 Markdown 語法進行編輯。
 
-### Local Development
+詳細步驟如下：
+1. 到特定的 ExitTaiwan Docs 頁面，點選位在頁面左下角的「編輯此頁」按鈕。
+2. （登入 GitHub），點選檔案中右上角鉛筆的圖示（Edit this file），開始使用 Markdown 語法編輯該檔案。
+3. 編輯完成後，點選右上角綠色案紐提交更改（Commit changes...）
 
-```
-$ yarn start
-```
+## 此專案由以下工具建成
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+* [Docusaurus](https://docusaurus.io/) - The web framework used
+* [GitHub](https://github.com/) - Collaboratie platform
 
-### Build
+## 專案管理者
 
-```
-$ yarn build
-```
+* **David Chen** - *專案創立 / 管理者* - [xdavidchen](https://xdavidchen.com/en/)
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## License
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This project is licensed under the GPLv3.0 License - see the [LICENSE](LICENSE) file for details.

@@ -56,7 +56,7 @@
     "description": "The label of footer link with label=中華民國外交部駐外機構 linking to https://www.boca.gov.tw/sp-foof-arealp-All-1.html"
   },
   "copyright": {
-    "message": "© 2024 ExitTaiwan Docs *此網站上的內容包含行銷連結，透過連結購買，可以幫助我們獲得些許收入經營此站",
+    "message": "ExitTaiwan Docs 是一個「ExitTaiwan 出台灣」的開源專案",
     "description": "The footer copyright"
   }
 }
