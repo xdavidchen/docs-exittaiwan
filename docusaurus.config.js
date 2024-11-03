@@ -119,8 +119,8 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          '贊助此站 → <a target="_blank" rel="noopener noreferrer" href="https://exittaiwan.gumroad.com/l/membership"><b>點我前往</b></a>',
-        backgroundColor: '#444950',
+          '我們需要你的幫助繼續經營此網站 → <a target="_blank" rel="noopener noreferrer" href="https://exittaiwan.gumroad.com/l/membership"><b>每月贊助</b></a>｜<a target="_blank" rel="noopener noreferrer" href="https://exittaiwan.gumroad.com/coffee"><b>單次贊助</b></a>',
+        backgroundColor: '#399A4B',
         textColor: '#fff',
         isCloseable: false,
       },
