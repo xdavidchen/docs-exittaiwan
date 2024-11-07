@@ -8,7 +8,7 @@
     -ifm-color-primary: #b69667;
 */
 :root {
-  --ifm-color-primary: #38c748;
+  --ifm-color-primary: #399A4B;
   --ifm-color-primary-dark: #32b341;
   --ifm-color-primary-darker: #30a93d;
   --ifm-color-primary-darkest: #278b32;
@@ -20,7 +20,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #38c748;
+  --ifm-color-primary: #399A4B;
   --ifm-color-primary-dark: #32b341;
   --ifm-color-primary-darker: #30a93d;
   --ifm-color-primary-darkest: #278b32;
