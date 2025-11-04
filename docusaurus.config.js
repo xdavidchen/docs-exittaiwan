@@ -116,14 +116,14 @@ const config = {
       // Replace with your project's social card
       image: 'img/docs-banner-homepage.webp',
       metadata: [{title: 'ExitTaiwan Docs', description: '出國留學、交換、打工度假的資訊，這裡通通都有 👋🏼', image: 'img/docs-banner-homepage.webp', name: 'ExitTaiwan Docs', content: '留學, 打工度假, 海外工作'}],
-      announcementBar: {
+      /**announcementBar: {
         id: 'support_us',
         content:
           '我們需要你的幫助繼續經營此網站 → <a target="_blank" rel="noopener noreferrer" href="https://exittaiwan.gumroad.com/l/membership"><b>每月贊助</b></a>｜<a target="_blank" rel="noopener noreferrer" href="https://exittaiwan.gumroad.com/coffee"><b>單次贊助</b></a>',
         backgroundColor: '#399A4B',
         textColor: '#fff',
         isCloseable: false,
-      },
+      },**/
       docs: {
         sidebar: {
           hideable: true,
